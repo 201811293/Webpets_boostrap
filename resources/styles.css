@@ -1,0 +1,60 @@
+.cart{
+    background-image: url(img/cart-bg.png);
+    width: 70px;
+    height: 82px;
+    font-size: 2.5em;
+    color: white;
+}
+#numero{
+    padding: 10px;
+}
+#lista{
+    margin: auto;    
+}
+#reto{
+    margin-top: 50px;
+}
+#row{
+    margin-top: 20px;
+}
+#foter{
+    margin-top: 10px;
+    background-color: #0b5c22;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+    padding: 6px;
+}
+#categoria{
+    background-color: #0b5c22;
+}
+.lista{
+    display: flex;
+    flex-flow: row wrap;
+}
+.productos{
+    flex: 20%;
+    border: 2px solid green;
+    border-radius: 10px 10px;
+    margin: 0.1%;
+    padding: 1%;
+
+}
+.info{
+    text-align: center;
+}
+#yapa{
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+#foooter{
+    margin-top: 10px;
+    background-color: black;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+    padding: 6px;
+    border-radius: 30px 30px;
+}
+.body{
+    background-color: black;
+}
